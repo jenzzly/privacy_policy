@@ -1,0 +1,46 @@
+
+Privacy Policy for duosavings
+
+Effective Date: 2025-09-28
+
+At duosavings, we are committed to protecting your privacy. This Privacy Policy explains how our mobile application collects, uses, and protects your information.
+
+1. Information We Collect
+
+a. Photos
+- duosavings may request access to your device’s camera and photo library to allow you to upload or take pictures.
+- All photo data is stored locally on your device and is not uploaded or shared with any servers owned by duosavings.
+
+b. Location Information
+- With your permission, duosavings collects your information to enhance certain features of the app.
+- Location data is used only within the app to provide a better user experience (e.g., tagging photos, providing location-based recommendations).
+- This data is not stored on our servers or shared with third parties.
+
+2. How We Use Your Data
+- To enable features like photo tagging or organizing based on location.
+- To provide a personalized user experience within the app.
+
+3. Data Storage and Security
+- All photos and geolocation data are stored securely on your device only.
+- duosavings does not store or transmit your personal data to external servers.
+- We implement standard mobile security practices to protect your data while using the app.
+
+4. Third-Party Access
+- We do not sell, trade, or rent users’ personal identification information to others.
+- We do not use third-party analytics or advertising tools that collect your personal data.
+
+5. User Consent
+By using duosavings, you consent to the collection and use of your information as outlined in this Privacy Policy.
+
+6. Your Rights
+You can:
+- Disable location permissions in your device settings at any time.
+- Delete app data by uninstalling the app from your device.
+
+7. Changes to This Policy
+We may update this Privacy Policy from time to time. If we make significant changes, we will notify you through the app or on our website.
+
+8. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+
+📧 jenzzly@gmail.com
